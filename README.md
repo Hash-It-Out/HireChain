@@ -8,9 +8,18 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4>An open platform for job openings and acceptance in various tech and non-tech fields. (Freelancing)</h4>
+<h4>Hirechain is a blockchain-based decentralized freelancing platform that aims to ensure trust between employer and freelance employee, and prevent issues such as late payment, delayed work, and unfair evaluation of work. </h4>
 
 </div>
+
+------------------------------------------
+### Inspiration
+
+* "Gig economy" is becoming very popular and many people derive their primary income through this market system. Generally, gig employees include freelancers, project-based workers, independent contractors, and temporary or part-time hires.
+
+* Freelancers often work various projects simultaneously for different clients. Both employer and employee may face various issues such as unreliability, poor communication, late payment, delayed work, unfair evaluation of work and so on. 
+
+* `Hirechain` is a blockchain-based decentralized freelancing system that aims to ensure trust between employer and freelance employee, and prevent the aforementioned issues.
 
 ------------------------------------------
 ### Objectives
@@ -21,7 +30,6 @@
 ~`Direct Payment`: Payment via ethereum wallet.<br/>
 ~`Limited T&C`: Social media and personal data sharing is banned.<br/>
 ~`Transparency`
-
 
 ------------------------------------------
 ### Features
