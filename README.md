@@ -12,11 +12,6 @@
 
 </div>
 
-------------------------
-### Research Paper
-
-<a href="https://www.irjet.net/archives/V6/i9/IRJET-V6I9344.pdf" target='_blank'>Decentralized Freelancing System : Trust and Transparency </a>
-
 ------------------------------------------
 ### Objectives
 
@@ -76,6 +71,21 @@
 ------------------------------------------
 ### Dissemination
 
-* Our research paper based on this project has been published in [International Research Journal of Engineering and Technology](https://www.irjet.net/) (IRJET) Volume 6 Issue 9. View the paper [here](https://www.irjet.net/archives/V6/i9/IRJET-V6I9344.pdf).
+* Our research paper based on this project, ["Decentralized Freelancing System - Trust and Transparency"](https://www.irjet.net/archives/V6/i9/IRJET-V6I9344.pdf), has been published in [International Research Journal of Engineering and Technology](https://www.irjet.net/) (IRJET) Volume 6 Issue 9.
+
+------------------------------------------
+### Authors
+
+Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
+
+Priyam Shah- [priyamshah112](https://github.com/priyamshah112)
+
+Devansh Solanki - [devanshslnk](https://github.com/devanshslnk)
+
+Mihir Shah - [mihir-ms](https://github.com/mihir-ms)
+
+------------------------------------------
+### License
+This project is licensed under the MIT - see the [LICENSE](./LICENSE) file for details.
 
 
