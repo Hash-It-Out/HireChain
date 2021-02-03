@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4>Hirechain is a <strong>blockchain-based decentralized freelancing platform</strong> that aims to ensure trust between employer and freelance employee, and prevent issues such as late payment, delayed work, and unfair evaluation of work. </h4>
+<h4>HireChain is a <strong>blockchain-based decentralized freelancing platform</strong> that aims to ensure trust between employer and freelance employee, and prevent issues such as late payment, delayed work, and unfair evaluation of work. </h4>
 
 </div>
 
