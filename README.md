@@ -3,7 +3,14 @@
     <img height=200px src="http://cdn.differencebetween.net/wp-content/uploads/2018/05/Difference-Between-Link-and-Hyperlink.png" alt="Hire Chain Logo"></a>
 
 <h1 align="center">HireChain</h1>
+
+<div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 <h4>An open platform for job openings and acceptance in various tech and non-tech fields. (Freelancing)</h4>
+
+</div>
 
 ------------------------
 ### Research Paper
@@ -65,5 +72,10 @@
       # Run client on the second terminal
       $ npm start
 ```
+
+------------------------------------------
+### Dissemination
+
+* Our research paper based on this project has been published in [International Research Journal of Engineering and Technology](https://www.irjet.net/) (IRJET) Volume 6 Issue 9. View the paper [here](https://www.irjet.net/archives/V6/i9/IRJET-V6I9344.pdf).
 
 
