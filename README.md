@@ -19,7 +19,7 @@
 
 * Freelancers often work various projects simultaneously for different clients. Both employer and employee may face various issues such as unreliability, poor communication, late payment, delayed work, unfair evaluation of work and so on. 
 
-* **Hirechain** is a blockchain-based decentralized freelancing system that aims to ensure trust between employer and freelance employee, and prevent the aforementioned issues.
+* **HireChain** is a blockchain-based decentralized freelancing system that aims to ensure trust between employer and freelance employee, and prevent the aforementioned issues.
 
 ------------------------------------------
 ### Objectives
