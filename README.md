@@ -50,7 +50,7 @@
 ### Installation
   * Step I: Clone the Repository
 ```sh
-      $ git clone https://github.com/priyamshah112/HireChain.git      
+      $ git clone https://github.com/Hash-It-Out/HireChain      
 ```
   * Step II: Install server packages
 ```sh
