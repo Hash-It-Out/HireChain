@@ -48,11 +48,12 @@
 
 ------------------------------------------
 ### Installation
-  * Step I: Clone the Repository
+
+* Step I: Clone the Repository
 ```sh
       $ git clone https://github.com/Hash-It-Out/HireChain      
 ```
-  * Step II: Install server packages
+* Step II: Install server packages
 ```sh
       # On the terminal move into HireChain package directory
       $ cd HireChain
