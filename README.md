@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4>HireChain is a <strong>blockchain-based decentralized freelancing platform</strong> that aims to ensure trust between employer and freelance employee, and prevent issues such as late payment, delayed work, and unfair evaluation of work. </h4>
+<h4>HireChain is a <strong>blockchain-based decentralized freelancing platform</strong> that aims to ensure trust between employer and freelance employee, and prevent issues such as late payment, delayed work, and unfair evaluation of work.</h4>
 
 </div>
 
@@ -83,15 +83,15 @@
 * Our research paper based on this project, ["Decentralized Freelancing System - Trust and Transparency"](https://www.irjet.net/archives/V6/i9/IRJET-V6I9344.pdf), has been published in [International Research Journal of Engineering and Technology](https://www.irjet.net/) (IRJET) Volume 6 Issue 9.
 
 ------------------------------------------
-### Authors
+### Contributors 
 
-Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
+Mihir Shah - [mihir-ms](https://github.com/mihir-ms)
 
 Priyam Shah- [priyamshah112](https://github.com/priyamshah112)
 
 Devansh Solanki - [devanshslnk](https://github.com/devanshslnk)
 
-Mihir Shah - [mihir-ms](https://github.com/mihir-ms)
+Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
 
 ------------------------------------------
 ### License
